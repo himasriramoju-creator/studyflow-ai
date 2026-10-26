@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "usr_1792948773333_l1nfv8",
+      "fullName": "Himasriramoju",
+      "email": "himasriramoju@gmail.com",
+      "avatarUrl": "/src/assets/images/avatar_student_default_1792947626134.jpg",
+      "points": 100,
+      "streakDays": 1,
+      "lastActiveDate": "2026-10-25",
+      "createdAt": "2026-10-25T17:19:33.333Z",
+      "passwordHash": "$2b$10$xcWCN2ziWJlAyNCGK98R6udsjb1wem4GJo7VtA0hkDGuYNb9h77Ly"
+    }
+  ],
+  "tasks": [],
+  "subjects": [],
+  "preferences": {
+    "usr_1792948773333_l1nfv8": {
+      "userId": "usr_1792948773333_l1nfv8",
+      "dailyAvailableMinutes": 180,
+      "preferredSessionMinutes": 45,
+      "breakDurationMinutes": 15,
+      "preferredStartTime": "09:00",
+      "preferredEndTime": "17:00",
+      "maxDailyHours": 6
+    }
+  },
+  "achievements": [
+    {
+      "id": "ach_1792948773334",
+      "userId": "usr_1792948773333_l1nfv8",
+      "achievementType": "welcome",
+      "title": "StudyFlow Pioneer",
+      "description": "Created your personal study planner account and saved your academic history.",
+      "points": 100,
+      "icon": "Sparkles",
+      "earnedAt": "2026-10-25T17:19:33.334Z"
+    }
+  ],
+  "studyLogs": []
+}

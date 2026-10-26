@@ -1,0 +1,8 @@
+{
+  "name": "StudyFlow AI - Smart Study Planner & Task Prioritizer",
+  "description": "An intelligent AI study planner and task prioritizer for college students, calculating deadline urgency, importance, difficulty, and study schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
